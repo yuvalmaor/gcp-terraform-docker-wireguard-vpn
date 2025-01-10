@@ -1,0 +1,6 @@
+project_id     = "third-diorama-440916-u8"
+region         = "me-west1"
+network_name   = "my-network"
+instance_name  = "my-vm-instance"
+machine_type   = "e2-medium"
+image          = "debian-cloud/debian-12"
